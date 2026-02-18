@@ -20,4 +20,5 @@
 ---
 📫 **Как со мной связаться:**
 *   **GitHub**: [ganjorik](https://github.com)
-*   **Email**: ganjori@gmail.com
+*   **Email**: ganjorik@gmail.com
+*   **Telegram**: Leodenvikk
