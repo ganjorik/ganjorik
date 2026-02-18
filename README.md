@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет! Я Денис 👋 
 
-<!--
-**ganjorik/ganjorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Java-разработчик. Сейчас я прохожу обучение и активно практикуюсь в написании кода, решая алгоритмические задачи и учебные проекты.
 
-Here are some ideas to get you started:
+### 🛠 Мой стек технологий:
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Мои текущие проекты:
+*   **[DenFirstProject](https://github.com)** — мой основной учебный репозиторий с задачами (JD2, алгоритмы, MadScientists).
+
+### 📊 Статистика GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app)
+![Top Langs](https://github-readme-stats.vercel.app)
+
+---
+📫 **Как со мной связаться:**
+*   **GitHub**: [ganjorik](https://github.com)
