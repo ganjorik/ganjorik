@@ -2,16 +2,16 @@
 
 Я начинающий Java-разработчик. Сейчас я прохожу обучение и активно практикуюсь в написании кода, решая алгоритмические задачи и учебные проекты.
 
-### 🛠 Мой стек технологий:
-<p align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
+## Tech Stack
 
-### 🚀 Мои текущие проекты:
-*   **[DenFirstProject](https://github.com)** — мой основной учебный репозиторий с задачами (JD2, алгоритмы, MadScientists).
+- Java
+- Maven
+- JDBC
+- Hibernate / JPA
+- MySQL
+- SQL
+- DAO Pattern
+- Git / GitHub
 
 ### 📊 Статистика GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app)
