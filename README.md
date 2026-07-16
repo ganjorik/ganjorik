@@ -1,6 +1,8 @@
-# Привет! Я Денис 👋 
+# Hi, I'm Denis 👋
 
-Я начинающий Java-разработчик. Сейчас я прохожу обучение и активно практикуюсь в написании кода, решая алгоритмические задачи и учебные проекты.
+Java Backend Developer
+
+I'm currently studying Java Backend Development and building enterprise applications using Java and Spring ecosystem.
 
 ## Tech Stack
 
