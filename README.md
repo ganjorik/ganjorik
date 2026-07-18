@@ -73,7 +73,7 @@ Implemented features:
 - Liquibase database migrations
 - Layered architecture (Controller → Service → DAO)
 
-The project is continuously extended with new features and automated tests.
+The project is gradually evolving with new features and automated tests.
 
 ---
 
