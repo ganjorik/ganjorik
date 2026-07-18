@@ -2,17 +2,19 @@
 
 ## Java Backend Developer
 
-Java Backend Developer with **18+ years of engineering and management experience** in a large manufacturing company.
+Building backend applications with Java, Spring Boot and Hibernate.
 
-After a successful engineering career, I transitioned into backend development, where I build Java applications and continuously improve my technical skills.
+Java Backend Developer with 18 years of engineering and leadership experience in a large manufacturing company.
 
-I enjoy designing application architecture, solving backend problems and writing clean, maintainable code.
+After a successful engineering career, I transitioned into backend development, where I build Java applications and continuously improve my software engineering skills.
+
+I enjoy designing application architecture, solving backend challenges, and writing clean, maintainable code.
 
 ---
 
 ## 🚀 Current Focus
 
-- Building enterprise backend applications
+- Building Java backend applications
 - Spring Boot
 - REST API
 - Software Testing
@@ -25,7 +27,7 @@ I enjoy designing application architecture, solving backend problems and writing
 ### Backend
 - Java
 - Spring Framework
-- Spring Boot *(learning)*
+- Spring Boot
 - Spring MVC
 - Spring Security
 - REST API
@@ -56,7 +58,8 @@ I enjoy designing application architecture, solving backend problems and writing
 
 Backend application for managing sports training.
 
-🚧 **Currently under active development.**
+🔗 Repository:
+https://github.com/ganjorik/wushu-training-manager
 
 Implemented features:
 
@@ -76,7 +79,7 @@ The project is continuously extended with new features and automated tests.
 
 ## 🎯 Career Goal
 
-Seeking a **Java Backend Developer** position where I can apply my engineering background, continue learning from experienced developers and contribute to building reliable backend systems.
+Seeking a Java Backend Developer position where I can apply my engineering background, contribute to reliable backend systems, and continue growing as a backend engineer.
 
 ---
 
