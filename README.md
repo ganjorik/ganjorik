@@ -89,4 +89,4 @@ Seeking a Java Backend Developer position where I can apply my engineering backg
 
 💬 Telegram: **@ganjorik**
 
-💼 LinkedIn: *Coming soon*
+💼 LinkedIn: https://www.linkedin.com/in/denis-leonenko/
